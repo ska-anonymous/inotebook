@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+i {
+  cursor: pointer;
+}
+
+.note-card {
+  box-shadow: 2px 2px 5px 0px black;
+}
+.note-card:hover{
+  transform: scale(0.97);
+}
